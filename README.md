@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Shawon Kumar Mondal
 
-<!--
-**aoschu/aoschu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data-driven engineer passionate about solving real-world problems through machine learning, NLP, and smart automation. Currently finishing my Master's in Communication & Information Technology at the University of Bremen (expected August 2025).
 
-Here are some ideas to get you started:
+## 💼 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Intelligent data pipelines & chatbot systems (Rasa, SQL, Python)  
+- ML & NLP in academic + industrial projects (TensorFlow, LayoutLM, Hugging Face)  
+- Document processing, OCR, and image enhancement (Donut, EasyOCR, YOLOv8)  
+- Cloud tools (Azure ML), dashboarding (Power BI)  
+- Research in 6G/ESN for MIMO-OFDM symbol detection
+
+## 🧠 What I Believe
+
+Good technology starts with asking the right questions. I enjoy bridging the gap between data and decision-making through collaboration, creativity, and curiosity.
+
+## 🌍 Let's Connect
+
+📍 Bremen, Germany  
+🗣️ English (fluent), German (B1 – learning B2)  
+🌐 [shawonswork.de](http://shawonswork.de)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shawonkumar) | [Hugging Face](https://huggingface.co/Aoschu)
