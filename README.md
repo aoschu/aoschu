@@ -17,6 +17,7 @@ Good technology starts with asking the right questions. I enjoy bridging the gap
 ## 🌍 Let's Connect
 
 📍 Bremen, Germany  
+email: shawon.eee.edu@gmail.com
 🗣️ English (fluent), German (B1 – learning B2)  
 🌐 [shawonswork.de](http://shawonswork.de)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shawonkumar) | [Hugging Face](https://huggingface.co/Aoschu)
