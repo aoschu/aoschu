@@ -36,8 +36,7 @@ Currently at **Aerospace Data Security GmbH** (Bremen, Germany).
 
 ---
 
-## Belief
-Good technology starts with asking the right questions. I like bridging the gap between data and decisions through careful problem framing, reproducible pipelines, and clear visuals.
+
 
 ---
 
