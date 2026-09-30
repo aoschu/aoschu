@@ -8,7 +8,9 @@ Currently at **Aerospace Data Security GmbH** (Bremen, Germany).
 
 ## Focus Areas
 - Satellite communication
-- Intelligent data pipelines & chatbot systems (Rasa, SQL, Python)  
+- GNSS SDR (Galileo + GPS)
+- FPGA implementation of GNSS
+- Algorithm development 
 - ML & NLP in academic & industrial projects (TensorFlow, LayoutLM, Hugging Face)  
 - Document processing, OCR, and image enhancement (Donut, EasyOCR, YOLOv8)   
 - Research interests: 6G & Echo State Networks (ESN) for MIMO-OFDM symbol detection
@@ -16,12 +18,12 @@ Currently at **Aerospace Data Security GmbH** (Bremen, Germany).
 ---
 
 ## Selected Work
+- **GNSS SDR** – Implement Galileo Navigation system.
 - **Document AI & OCR** – LayoutLM / Donut pipelines for multi-page PDFs and forms  
 - **NLP Chatbots** – Rasa + custom retrieval, analytics, and feedback loops  
 - **Vision Tasks** – YOLOv8 for layout/region detection and image cleanup  
 - **Comms Research** – ESN-based demapping under 3GPP CDL channels (Sionna/TensorFlow)
 
-> Repos are in progress; highlights will be linked here.  
 
 ---
 
